@@ -1,10 +1,3 @@
-## GoIT Node.js Course Template Homework
+## Delivery App back-End
 
-### Команди:
-
-- `npm start` &mdash; старт сервера в режимі production
-- `npm run start:dev` &mdash; старт сервера в режимі розробки (development)
-- `npm run lint` &mdash; запустити виконання перевірки коду з eslint, необхідно виконувати перед кожним PR та виправляти всі помилки лінтера
-- `npm lint:fix` &mdash; та ж перевірка лінтера, але з автоматичними виправленнями простих помилок
-
-Password - p9bOY39l7Tzd1BON
+We have deployed the backend server of Delivery App on the Render.com platform to ensure smooth and reliable performance. The front-end of the application can be run locally using the provided instructions. If you have any questions or suggestions, please feel free to contact us.
